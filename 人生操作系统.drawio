@@ -1,29 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T04:26:06.385Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8IVQjQJGOR2jHOtss7jH" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T05:17:25.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gyuE72O2mzZXf-zbN6H0" version="23.1.4" type="github">
   <diagram name="第 1 页" id="V_6afIzlGNJUc4OrbMHg">
-    <mxGraphModel dx="1194" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5uvJTkxu__sgqUNM68eg-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="L6D6OzKPl9r4PPBB39lk-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="270" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5uvJTkxu__sgqUNM68eg-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="300" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="5uvJTkxu__sgqUNM68eg-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5uvJTkxu__sgqUNM68eg-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="330" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5uvJTkxu__sgqUNM68eg-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5uvJTkxu__sgqUNM68eg-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="232.5" y="360" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5uvJTkxu__sgqUNM68eg-2" value="驱动力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5uvJTkxu__sgqUNM68eg-2" value="驱动力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="390" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5uvJTkxu__sgqUNM68eg-12" value="元认知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5uvJTkxu__sgqUNM68eg-12" value="元认知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uvJTkxu__sgqUNM68eg-14" value="内核力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5uvJTkxu__sgqUNM68eg-14" value="内核力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uvJTkxu__sgqUNM68eg-17" value="应用力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5uvJTkxu__sgqUNM68eg-17" value="应用力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L6D6OzKPl9r4PPBB39lk-2" value="借器物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
